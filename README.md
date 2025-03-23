@@ -13,7 +13,7 @@ Tópicos e tecnologias abordados: **Microservices, Arquitetura de Software, DevO
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
-Este evento foi uma parceria entre a comunidade [**Azure na Prática**](https://www.youtube.com/azurenapratica) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
+Este evento foi uma parceria entre a comunidade [**Campinas .NET**](https://www.youtube.com/azurenapratica) e a [**UniMetrocamp**](https://www.wyden.com.br/unidades/unimetrocamp).
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/microservices-escalabilidade-e-kubernetes-gratuito-e-presencial-campinas-sp/2615614)
 
